@@ -1,4 +1,11 @@
 # Proyecto2-GPC
+💻 Implementación de Ray Tracing
+## Curso
+Gráficas por Computadora
+## Tecnologías
+- Python
+- Pygame
+- Numpy
 ## Resulado final
 ![Image text](https://github.com/carrillo21108/Proyecto2-GPC/blob/main/screenshot.png)
 
